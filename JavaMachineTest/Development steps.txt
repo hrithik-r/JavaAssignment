@@ -1,0 +1,28 @@
+Java Machine Test Development Steps:
+------------------------------------
+Craete 3 packages named app, DAO and bean.
+Create 3 classes, one under app, one under DAO and one under bean.
+
+App:
+Entry point of the application and returns here after executing all the methods.
+
+DAO:
+For getting input from the user and menu driven console interface.
+Add:
+Account No – (AutoGenerate 9 digits)
+Customer Name
+Account Type (Savings/Current)
+Balance
+Minimum Balance
+Mobile Number
+Email Id
+ATM Pin (Autogenerate 4 digits)
+ 
+update, delete, deposit, withdraw, show balance, list all customers, display specific customer, transfer money.
+
+
+bean:
+To store the data from DAO layer.
+
+
+
